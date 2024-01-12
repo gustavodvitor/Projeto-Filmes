@@ -4,8 +4,8 @@ Desafio Projeto de Filmes desenvolvido com base nos estudos do curso de REACT do
 
 O que foi usado?
 *React
-*Javascript
-*Node
-*Toastify
-*API The Movie DB
-*Screenshots e Vídeo
+* Javascript
+* Node
+* Toastify
+* API The Movie DB
+* Screenshots e Vídeo
