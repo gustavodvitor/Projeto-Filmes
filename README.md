@@ -11,3 +11,5 @@ O que foi usado?
 * Toastify
 * API The Movie DB
 * Screenshots e Vídeo
+
+Link para acesso: https://gustavo-filmes.netlify.app/favoritos
